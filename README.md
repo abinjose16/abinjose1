@@ -2,9 +2,8 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abinjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abin-jose-143577244/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BICctzBwPSve%2Ftg9I4%2Fn5OA%3D%3D
-[![Website Badge] 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)][(https://stackoverflow.com/users/3687251/aakash-)
+
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Abinjose-yellow)][(https://stackoverflow.com/users/3687251/abinjose-)
 ](https://stackoverflow.com/users/22347647/abin-jose?tab=profile)
 I'm
 Full Stack Developer
