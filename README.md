@@ -2,7 +2,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abin Jose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abin-jose-143577244)](https://www.linkedin.com/in/abin-jose-143577244)
+[![Linkedin Badge](https://img.shields.io/badge/-AbinJose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abin-jose-143577244)](https://www.linkedin.com/in/abin-jose-143577244)
 
 I'm
 Full Stack Developer
